@@ -9,7 +9,7 @@ from remain_up import remain_up
 
 remain_up()
 
-bot = telebot.TeleBot("SET TOKEN")
+bot = telebot.TeleBot("7539481699:AAGrfKWYci9iJ9A_ZLq6Kpf3fhXHXgTmaOk")
 
 def run_php():
   subprocess.call('php -S 0.0.0.0:5000', shell=True)
